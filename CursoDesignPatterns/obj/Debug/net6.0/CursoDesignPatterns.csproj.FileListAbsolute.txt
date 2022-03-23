@@ -1,0 +1,15 @@
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfo.cs
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.exe
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.deps.json
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.runtimeconfig.json
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.dll
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\ref\CursoDesignPatterns.dll
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.pdb
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.dll
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\ref\CursoDesignPatterns.dll
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.pdb
+C:\Users\win\source\repos\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.genruntimeconfig.cache
